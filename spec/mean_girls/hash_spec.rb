@@ -4,6 +4,6 @@ describe Hash, "#fetch" do
   end
 
   it "understands that fetch is actually useful, unlike Regina George" do
-    { glen_coco: "four for you!" }.fetch(:glen_coco).should eq "four for you!"
+    expect({ glen_coco: "four for you!" }.fetch(:glen_coco)).to eq "four for you!"
   end
 end
