@@ -1,6 +1,8 @@
 # Mean Girls
 
-Mean Girls-flavored ruby.
+Mean Girls-flavored ruby. It's so [Hash#fetch]!
+
+[Hash#fetch]: http://ioneglobalgrind.files.wordpress.com/2014/04/tumblr_n1dw7wytli1sb62koo5_500.gif
 
 ## Installation
 
